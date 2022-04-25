@@ -1,0 +1,10 @@
+{
+    "channel": "roles",
+    "roles": {
+      "1": "Event",
+      "2": "Housing",
+      "3": "Giveaway",
+      "4": "Announcement",
+      "5": "Teaser"
+    }
+  }

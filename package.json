@@ -1,0 +1,14 @@
+{
+  "name": "mystic-bot",
+  "version": "1.0.0",
+  "description": "Hi! This is a bot for the new Mystic Event Server! DM RJ Doss#5074 for any bug reports.",
+  "main": "bot.js",
+  "author": "Powerplace09",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^2.0.15"
+  }
+}
